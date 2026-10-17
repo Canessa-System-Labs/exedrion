@@ -22,6 +22,10 @@ An ambitious assignment deserves more than a pile of notes. Exedrion keeps the p
 <a name="watch"></a>
 <img src="assets/ch-watch.svg" width="100%" alt="04 Watch: Exedrion, told in film">
 
+https://github.com/user-attachments/assets/49f2bb7f-7ef2-4be2-95ee-20486dea6343
+
+https://github.com/user-attachments/assets/07b6fe22-5dd3-4f3d-a139-59892cecf3ba
+
 <p align="center">
 <a href="https://canessasyslabs.com/exedrion/"><img src="assets/film-1.svg" width="49%" alt="Exedrion film: Ink becomes a shield. Opens the Exedrion page."></a>
 <a href="https://canessasyslabs.com/exedrion/"><img src="assets/film-2.svg" width="49%" alt="Exedrion film: The library of evidence. Opens the Exedrion page."></a>
