@@ -1,6 +1,6 @@
 <p align="center"><a href="https://canessasyslabs.com/exedrion/"><img src="assets/hero.svg" width="100%" alt="Exedrion: Academic deliverable system. Understand complex ideas. Produce academic work grounded in evidence. Know what was actually checked and what still needs a decision."></a></p>
 
-<p align="center"><img src="assets/badges.svg" alt="Status Private release · version 0.4.14 · Plugin · Skills · All rights reserved"></p>
+<p align="center"><img src="assets/badges.svg" alt="Status Private release · version 0.4.15 · Plugin · Skills · All rights reserved"></p>
 
 <p align="center"><a href="https://canessasyslabs.com/exedrion/"><b>See it on canessasyslabs.com&nbsp;&nbsp;→</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://chatgpt.com/plugins/plugins_6ac95bda4e0081919d68779d339203df"><b>Try it in ChatGPT&nbsp;↗</b></a></p>
 
@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/07b6fe22-5dd3-4f3d-a139-59892cecf3ba
 <a name="where-it-stands"></a>
 <img src="assets/ch-where-it-stands.svg" width="100%" alt="05 Where it stands: Honest status, enforced by the build">
 
-<img src="assets/status.svg" width="100%" alt="Status: now Released; release 0.4.14 · private ChatGPT plugin; next Confirm behavior inside the ChatGPT host, then open access beyond the owner's account.">
+<img src="assets/status.svg" width="100%" alt="Status: now Released; release 0.4.15 · private ChatGPT plugin; next Confirm behavior inside the ChatGPT host, then open access beyond the owner's account.">
 
 <img src="assets/stack.svg" width="100%" alt="Built with Agent plugin, Python 3.10+ standard library, SVG / CSS">
 
