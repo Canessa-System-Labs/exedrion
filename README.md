@@ -1,6 +1,6 @@
 <p align="center"><a href="https://canessasyslabs.com/exedrion/"><img src="assets/hero.svg" width="100%" alt="Exedrion: Academic deliverable system. Understand complex ideas. Produce academic work grounded in evidence. Know what was actually checked and what still needs a decision."></a></p>
 
-<p align="center"><img src="assets/badges.svg" alt="Status Private release · version 0.4.15 · Plugin · Skills · All rights reserved"></p>
+<p align="center"><img src="assets/badges.svg" alt="Status Private release · version 0.4.16 · Plugin · Skills · All rights reserved"></p>
 
 <p align="center"><a href="https://canessasyslabs.com/exedrion/"><b>See it on canessasyslabs.com&nbsp;&nbsp;→</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://chatgpt.com/plugins/plugins_6ac95bda4e0081919d68779d339203df"><b>Try it in ChatGPT&nbsp;↗</b></a></p>
 
@@ -32,11 +32,11 @@ https://github.com/user-attachments/assets/07b6fe22-5dd3-4f3d-a139-59892cecf3ba
 </p>
 
 <a name="where-it-stands"></a>
-<img src="assets/ch-where-it-stands.svg" width="100%" alt="05 Where it stands: Honest status, enforced by the build">
+<img src="assets/ch-where-it-stands.svg" width="100%" alt="05 Current release: The version you can use today">
 
-<img src="assets/status.svg" width="100%" alt="Status: now Released; release 0.4.15 · private ChatGPT plugin; next Confirm behavior inside the ChatGPT host, then open access beyond the owner's account.">
+<img src="assets/status.svg" width="100%" alt="Released version 0.4.16 · approved; ChatGPT plugin upload pending. What it gives you: Turns an assignment's real requirements into a structured, sourced academic deliverable; Adds at least three analytical visuals to every formal deliverable; Keeps an evidence ledger of stages, revisions and your approvals">
 
-<img src="assets/stack.svg" width="100%" alt="Built with Agent plugin, Python 3.10+ standard library, SVG / CSS">
+<img src="assets/stack.svg" width="100%" alt="Delivered as Agent plugin; code: Python 63%, HTML 35%, Other 2%">
 
 <a href="https://canessasyslabs.com/exedrion/"><img src="assets/closing.svg" width="100%" alt="Make your knowledge visible. See Exedrion on canessasyslabs.com"></a>
 
